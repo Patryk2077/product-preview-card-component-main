@@ -78,3 +78,7 @@ h1 {
     padding: 13px;
     border: none;
 }
+.button:hover {
+    background-color: rgb(1, 54, 1);
+    cursor: pointer;
+}
